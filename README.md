@@ -1,3 +1,5 @@
+> archived, use https://github.com/Redbeanw44602/urldown instead plz.
+
 ## YHDL
 🌸 樱花动漫下载器，支持下载后自动连接为MP4 &amp; 自动去除插播广告
 
